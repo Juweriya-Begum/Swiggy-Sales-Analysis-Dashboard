@@ -95,7 +95,7 @@ These slicers allow users to dynamically explore data and gain deeper insights.
 ---
 
 ## 📷 Dashboard Preview
-![Swiggy Sales Dashboard](main/Swiggy%20Sales%20Analysis%20Dashboard.png)
+![Swiggy Sales Dashboard](Swiggy%20Sales%20Analysis%20Dashboard.png)
 
 ---
 
